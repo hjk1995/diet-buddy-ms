@@ -1,1 +1,2 @@
-# diet-buddy-ms
+# Diet-Buddy
+
